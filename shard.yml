@@ -1,0 +1,14 @@
+name: alpine-docker-example
+version: 0.1.0
+
+authors:
+  - David Dai <david.github@gmail.com>
+
+description: |
+  An example of a multi-stage Docker build using Alpine.
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+license: MIT
